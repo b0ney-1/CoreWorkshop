@@ -87,7 +87,7 @@ Replace "Your commit message" with a brief description of your changes.
 - **Branch Name**: main
 - **Official Core Repository (For Fork)**:[Build on Core](https://github.com/coredao-org/Build-On-Core/tree/main)
 - **BASE URI for Metadata**:[https://b0ney-1.github.io/10k/generated_metadata/](https://b0ney-1.github.io/10k/generated_metadata/)
-
+- **NFT Minter**:[NFT Minter App](https://nft-minter-blond.vercel.app/)
 
 **Important**: Your project must be placed in the following folder:
 
