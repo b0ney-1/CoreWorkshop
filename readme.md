@@ -96,5 +96,6 @@ University-Dev-Tours/India/
 ```
 
 Ensure that all your project files and folders are created within this directory structure.
+**One more Important thingy**: Delete the .git folder after placing it inside the above directory to avoid sub-modules
 
 Happy coding!
